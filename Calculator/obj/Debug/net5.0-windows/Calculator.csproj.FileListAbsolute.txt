@@ -1,0 +1,38 @@
+C:\Users\USER\source\repos\CalculatorSln\Calculator\bin\Debug\net5.0-windows\Calculator.exe
+C:\Users\USER\source\repos\CalculatorSln\Calculator\bin\Debug\net5.0-windows\Calculator.deps.json
+C:\Users\USER\source\repos\CalculatorSln\Calculator\bin\Debug\net5.0-windows\Calculator.runtimeconfig.json
+C:\Users\USER\source\repos\CalculatorSln\Calculator\bin\Debug\net5.0-windows\Calculator.runtimeconfig.dev.json
+C:\Users\USER\source\repos\CalculatorSln\Calculator\bin\Debug\net5.0-windows\Calculator.dll
+C:\Users\USER\source\repos\CalculatorSln\Calculator\bin\Debug\net5.0-windows\ref\Calculator.dll
+C:\Users\USER\source\repos\CalculatorSln\Calculator\bin\Debug\net5.0-windows\Calculator.pdb
+C:\Users\USER\source\repos\CalculatorSln\Calculator\obj\Debug\net5.0-windows\Calculator.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CalculatorSln\Calculator\obj\Debug\net5.0-windows\Calculator.calculatorForm.resources
+C:\Users\USER\source\repos\CalculatorSln\Calculator\obj\Debug\net5.0-windows\Calculator.Properties.Resources.resources
+C:\Users\USER\source\repos\CalculatorSln\Calculator\obj\Debug\net5.0-windows\Calculator.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\CalculatorSln\Calculator\obj\Debug\net5.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\CalculatorSln\Calculator\obj\Debug\net5.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CalculatorSln\Calculator\obj\Debug\net5.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\USER\source\repos\CalculatorSln\Calculator\obj\Debug\net5.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CalculatorSln\Calculator\obj\Debug\net5.0-windows\Calculator.dll
+C:\Users\USER\source\repos\CalculatorSln\Calculator\obj\Debug\net5.0-windows\ref\Calculator.dll
+C:\Users\USER\source\repos\CalculatorSln\Calculator\obj\Debug\net5.0-windows\Calculator.pdb
+C:\Users\USER\source\repos\CalculatorSln\Calculator\obj\Debug\net5.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\USER\Desktop\19-41556-3 OOP2[F] Quiz2\Calculator\bin\Debug\net5.0-windows\Calculator.exe
+C:\Users\USER\Desktop\19-41556-3 OOP2[F] Quiz2\Calculator\bin\Debug\net5.0-windows\Calculator.deps.json
+C:\Users\USER\Desktop\19-41556-3 OOP2[F] Quiz2\Calculator\bin\Debug\net5.0-windows\Calculator.runtimeconfig.json
+C:\Users\USER\Desktop\19-41556-3 OOP2[F] Quiz2\Calculator\bin\Debug\net5.0-windows\Calculator.runtimeconfig.dev.json
+C:\Users\USER\Desktop\19-41556-3 OOP2[F] Quiz2\Calculator\bin\Debug\net5.0-windows\Calculator.dll
+C:\Users\USER\Desktop\19-41556-3 OOP2[F] Quiz2\Calculator\bin\Debug\net5.0-windows\ref\Calculator.dll
+C:\Users\USER\Desktop\19-41556-3 OOP2[F] Quiz2\Calculator\bin\Debug\net5.0-windows\Calculator.pdb
+C:\Users\USER\Desktop\19-41556-3 OOP2[F] Quiz2\Calculator\obj\Debug\net5.0-windows\Calculator.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\19-41556-3 OOP2[F] Quiz2\Calculator\obj\Debug\net5.0-windows\Calculator.calculatorForm.resources
+C:\Users\USER\Desktop\19-41556-3 OOP2[F] Quiz2\Calculator\obj\Debug\net5.0-windows\Calculator.Properties.Resources.resources
+C:\Users\USER\Desktop\19-41556-3 OOP2[F] Quiz2\Calculator\obj\Debug\net5.0-windows\Calculator.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\19-41556-3 OOP2[F] Quiz2\Calculator\obj\Debug\net5.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\19-41556-3 OOP2[F] Quiz2\Calculator\obj\Debug\net5.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\19-41556-3 OOP2[F] Quiz2\Calculator\obj\Debug\net5.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\USER\Desktop\19-41556-3 OOP2[F] Quiz2\Calculator\obj\Debug\net5.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\19-41556-3 OOP2[F] Quiz2\Calculator\obj\Debug\net5.0-windows\Calculator.dll
+C:\Users\USER\Desktop\19-41556-3 OOP2[F] Quiz2\Calculator\obj\Debug\net5.0-windows\ref\Calculator.dll
+C:\Users\USER\Desktop\19-41556-3 OOP2[F] Quiz2\Calculator\obj\Debug\net5.0-windows\Calculator.pdb
+C:\Users\USER\Desktop\19-41556-3 OOP2[F] Quiz2\Calculator\obj\Debug\net5.0-windows\Calculator.genruntimeconfig.cache
